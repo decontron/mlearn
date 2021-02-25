@@ -1,0 +1,29 @@
+#open cmd and type
+>cd\
+>cd user\script\directory
+> py -m pip --version
+# if not found then execute this
+#>curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+#>py get-pip.py
+>py -m pip install -U pip
+>pip install numpy matplotlib ternsorflow seaborn jupyter
+#>pip install -r requirements.txt --no-index
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
